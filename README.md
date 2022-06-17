@@ -1,4 +1,4 @@
-# Web_Scraping_Project
+# NBA_Stats_Web_Scraping_Project
 This is a Web scraping practice project. <br>
 Data Source: https://www.basketball-reference.com/leagues/NBA_2022_advanced.html
 
